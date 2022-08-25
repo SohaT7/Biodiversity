@@ -12,6 +12,8 @@ HTML
 JavaScript
 
 ### Description of the Analysis:
+The analysis aims to visualize each test subject's data - demogrpahic as well as data related to the bacteria present in their belly button. It will do so by creating charts that show top 10 bacteria cultures found, bacteria cultures per sample, and belly button washing frequency (scrubs per week).
+
 ## Results
 The options are showcased in a dropdown menu wherefrom the user can select the particular Test Subject ID against which they wish to have the data visualized.
 
