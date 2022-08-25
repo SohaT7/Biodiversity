@@ -4,7 +4,7 @@
 The purpose of this analysis is to visualize the bacterial data for each volunteer, especially the top 10 bacterial species found to be present in their belly buttons via bacteria culture. This can help the potential volunteers see for themselves which bacteria species they have in their belly button and if need be, volunteer to give that species up to research and development labs. 
 
 ### About the Dataset:
-The data is read from an external data file (JSON), [samples.json](https://github.com/SohaT7/Biodiversity/blob/main/samples.json),and by using the D3.js library and a local server. 
+The data is read from an external data file (JSON), [samples.json](https://github.com/SohaT7/Biodiversity/blob/main/samples.json), and by using the D3.js library and a local server. 
 
 ### Tools Used:
 HTML
