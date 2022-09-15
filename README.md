@@ -30,6 +30,9 @@ The gauge chart shows the belly button washing frequency in terms of number of s
 ## Summary
 The user friendly page enables the user, a potential volunteer, to visualize the top 10 bacteria found within their belly button, and thereby decide if they fit are able to volunteer any species that a research or manufacturing lab may require. 
 
+### Link to Dashboard:
+[Click here to visit the dashboard!](https://sohat7.github.io/Biodiversity/)
+
 ## Contact Information:
 Email: st.sohatariq@gmail.com
 
