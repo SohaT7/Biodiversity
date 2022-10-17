@@ -1,5 +1,4 @@
 # Biodiversity
-## Overview of the Analysis
 ## Table of Contents
 - [Overview of the Analysis](#overview-of-the-analysis)
     - [Purpose](#purpose)
@@ -11,6 +10,7 @@
 - [Link to the Dashboard](#Link-to-the-Dashboard)
 - [Contact Information](#contact-information)
 
+## Overview of the Analysis
 ### Purpose:
 The purpose of this project is to create an interactive dashboard which helps each volunteer visualize their bellybutton bacterial biodiversity data. The volunteers should be able to especially identify the top 10 bacterial species in their belly buttons.
 
